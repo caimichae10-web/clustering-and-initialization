@@ -1,0 +1,25 @@
+# Local Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Dataset downloaded by the notebook
+data/
+
+# Notebook-generated figures and logs
+results/
+*.log
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.synctex.gz
+*.fdb_latexmk
+*.fls
